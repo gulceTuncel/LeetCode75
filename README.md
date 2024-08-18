@@ -1,5 +1,4 @@
-# LeetCode 75 Challenge Solutions
-
+# LeetCode 75 Challenge
 Welcome to my LeetCode 75 Challenge repository! This collection features my solutions and optimized approaches to the problems presented in the LeetCode 75 Challenge. The repository is intended for personal development and skill enhancement, focusing on fundamental data structures and algorithms.
 
 ## Purpose
